@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\MaxLengthOfOnes\MaxLengthOfOnes\bin\Debug\MaxLengthOfOnes.exe
+c:\users\admin\documents\visual studio 2015\Projects\MaxLengthOfOnes\MaxLengthOfOnes\bin\Debug\MaxLengthOfOnes.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MaxLengthOfOnes\MaxLengthOfOnes\obj\Debug\MaxLengthOfOnes.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MaxLengthOfOnes\MaxLengthOfOnes\obj\Debug\MaxLengthOfOnes.exe
+c:\users\admin\documents\visual studio 2015\Projects\MaxLengthOfOnes\MaxLengthOfOnes\obj\Debug\MaxLengthOfOnes.pdb
